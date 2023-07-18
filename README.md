@@ -5,6 +5,8 @@ Simple App, implementing dagger-hilt, retrofit2, MVVM, live data, and much more.
 * MVVM
 * Dagger-Hilt
 * LiveData
-* Retrofit2
+* Retrofit
+* Coroutines
 * Movie Api
+
 
