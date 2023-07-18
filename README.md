@@ -1,2 +1,10 @@
 # MVVM-Movie-App
-Simple App, implementing dagger-hilt, retrofit2, mvvm, livedata and so much more.
+Simple App, implementing dagger-hilt, retrofit2, MVVM, live data, and much more.
+
+# Features
+* MVVM
+* Dagger-Hilt
+* LiveData
+* Retrofit2
+* Movie Api
+
